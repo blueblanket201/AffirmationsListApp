@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">I am strong</string>
+    <string name="affirmation2">I believe in myself</string>
+    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself</string>
+    <string name="affirmation4">I am capable of achieving my goals</string>
+    <string name="affirmation5">I choose to be happy and grateful</string>
+    <string name="affirmation6">I embrace challenges as opportunities</string>
+    <string name="affirmation7">I am worthy of love and respect</string>
+    <string name="affirmation8">My potential is limitless</string>
+    <string name="affirmation9">I radiate positivity and confidence</string>
+    <string name="affirmation10">I am in control of my own happiness</string>
+</resources>
